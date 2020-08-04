@@ -2,3 +2,6 @@ mathist-env
 __pycache__
 .pytest_cache
 test/__pycache__
+build
+dist
+mathist.egg-info
